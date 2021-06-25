@@ -1,5 +1,5 @@
 module.exports = {
-token: "NzAyODgwNTIwNjk0MTM2OTA2.XqVDfg.5Iabzbr6BdVpGc-kenz93yDKmGc",
+token: "94a2efa0286fab9860bcecbca9e307115c99d6cd0e5bb810ca0ec261090eef83",
 prefix: "*"
 
 }
